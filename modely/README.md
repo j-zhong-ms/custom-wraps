@@ -22,6 +22,10 @@ Download the template below and customize it with your own design. For complete 
 <a href="example/Dot_Matrix.png"><img src="example/Dot_Matrix.png" width="150"/></a>
 <a href="example/Ice_Cream.png"><img src="example/Ice_Cream.png" width="150"/></a>
 <a href="example/Jumbo_Alpaca.png"><img src="example/Jumbo_Alpaca.png" width="150"/></a>
+<a href="example/Alpaca_Sunset.png"><img src="example/Alpaca_Sunset.png" width="150"/></a>
+<a href="example/Alpaca_Rainbow.png"><img src="example/Alpaca_Rainbow.png" width="150"/></a>
+<a href="example/Alpaca_Night.png"><img src="example/Alpaca_Night.png" width="150"/></a>
+<a href="example/Alpaca_Confetti.png"><img src="example/Alpaca_Confetti.png" width="150"/></a>
 <a href="example/Leopard.png"><img src="example/Leopard.png" width="150"/></a>
 <a href="example/Pixel_Art.png"><img src="example/Pixel_Art.png" width="150"/></a>
 <a href="example/Reindeer.png"><img src="example/Reindeer.png" width="150"/></a>
